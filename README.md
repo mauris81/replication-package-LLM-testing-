@@ -1,7 +1,7 @@
 # Pacote de Replicação - Revisão Sistemática de Escopo sobre LLMs no Teste de Software
 
 Este repositório contém o pacote de replicação da revisão sistemática de escopo intitulada:
-**"Revisão Sistemática de Escopo sobre Aplicações de Large Language Models no Teste de Software"**
+**"Large Language Models in Software Testing: A Scoping Review"**
 
 Autores, instituição, afiliação, contato e local foram omitidos para revisão double-blind.
 
@@ -89,7 +89,7 @@ Algumas etapas foram auxiliadas por ferramentas de IA, incluindo normalização 
 
 ## Citação
 
-Autores omitidos para revisão double-blind. (2025). *Pacote de Replicação - Revisão Sistemática de Escopo sobre Aplicações de Large Language Models no Teste de Software*.
+Autores omitidos para revisão double-blind. (2025). *Large Language Models in Software Testing: A Scoping Review*.
 
 ---
 
