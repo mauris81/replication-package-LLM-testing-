@@ -17,7 +17,7 @@ replication-package/
 |-- 00_all_search_results.csv
 |-- 01_after_deduplication.csv
 |-- 02_screened_title_abstract_50.csv.csv
-|-- 03_full_text_review_final_16.csv.csv
+|-- 03_full_text_review_final_15.csv.csv
 |-- Planilha_Extracao_LLMs_Teste_Software  - Planilha_Extracao_LLMs_Teste_Software (1).csv
 `-- README.md
 ```
@@ -34,11 +34,11 @@ Conjunto após a remoção de duplicatas.
 
 Registros selecionados após a triagem por título e resumo.
 
-### 03_full_text_review_final_16.csv.csv (16 records)
+### 03_full_text_review_final_15.csv.csv (15 records)
 
 Conjunto final de registros revisados em texto completo e utilizados na síntese da revisão.
 
-### Planilha_Extracao_LLMs_Teste_Software  - Planilha_Extracao_LLMs_Teste_Software (1).csv (16 records)
+### Planilha_Extracao_LLMs_Teste_Software  - Planilha_Extracao_LLMs_Teste_Software (1).csv (15 records)
 
 Planilha de extração e mapeamento dos estudos em relação às questões de pesquisa.
 
