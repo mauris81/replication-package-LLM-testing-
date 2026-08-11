@@ -3,7 +3,10 @@
 Este repositório contém o pacote de replicação da revisão sistemática de escopo intitulada:
 **"Revisão Sistemática de Escopo sobre Aplicações de Large Language Models no Teste de Software"**
 
-Autores, instituição, afiliação, contato e local foram omitidos para revisão double-blind.
+**Autores:** Ruby Marshall e Maurício Magri Ribas das Neves  
+**Instituição:** Universidade Federal de Lavras (UFLA) — Câmpus São Sebastião do Paraíso, MG, Brasil  
+**Contato:** ruby.marshall@estudante.ufla.br | mauricio.neves@estudante.ufla.br  
+**Disciplina:** Verificação e Validação (VV 2025)
 
 O objetivo deste pacote de replicação é apoiar a transparência, a reprodutibilidade e a verificação do protocolo da revisão e de seus artefatos intermediários.
 
@@ -87,10 +90,12 @@ Algumas etapas foram auxiliadas por ferramentas de IA, incluindo normalização 
 
 ## Citação e Contato
 
-Autores e contato omitidos para revisão double-blind (2025).
+MARSHALL, R.; NEVES, M. M. R. das. **Revisão Sistemática de Escopo sobre Aplicações de Large Language Models no Teste de Software**. Universidade Federal de Lavras (UFLA), Câmpus São Sebastião do Paraíso, 2025.
+
+Dúvidas sobre o protocolo ou os artefatos: ruby.marshall@estudante.ufla.br | mauricio.neves@estudante.ufla.br
 
 ---
 
 ## Situação
 
-Revisão concluída. Pacote de replicação disponível para revisão double-blind.
+Revisão concluída. Pacote de replicação público e disponível para consulta e replicação.
