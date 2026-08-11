@@ -16,8 +16,8 @@ replication-package/
 |-- 00_all_search_results.csv
 |-- 01_after_deduplication.csv
 |-- 02_screened_title_abstract_47.csv
-|-- 03_full_text_review_final_15.csv
-|-- 04_planilha_extracao_LLMs_teste_software  - planilha_extracao_LLMs_teste_software (1).csv
+|-- 03_full_text_review_final_12.csv
+|-- 04_planilha_extracao_LLMs_teste_software  - planilha_extracao_LLMs_teste_software.csv
 `-- README.md
 ```
 
@@ -33,13 +33,13 @@ Conjunto após a remoção de 57 duplicatas.
 
 Artigos potencialmente relevantes após a triagem por título, resumo e palavras-chave (1274 registros excluídos nesta etapa).
 
-### 03_full_text_review_final_15.csv (15 records)
+### 03_full_text_review_final_12.csv (12 records)
 
-Conjunto final de 15 estudos primários incluídos na revisão, após a leitura completa (32 estudos excluídos nesta etapa).
+Conjunto final de 12 estudos primários incluídos na revisão, após a leitura completa (35 estudos excluídos nesta etapa).
 
-### 04_planilha_extracao_LLMs_teste_software  - planilha_extracao_LLMs_teste_software (1).csv (15 records)
+### 04_planilha_extracao_LLMs_teste_software  - planilha_extracao_LLMs_teste_software.csv (12 records)
 
-Planilha de extração: mapeamento dos 15 estudos primários em relação às questões de pesquisa (QP1 - aplicações, QP2 - desafios, QP3 - oportunidades).
+Planilha de extração: mapeamento dos 12 estudos primários em relação às questões de pesquisa (QP1 - aplicações, QP2 - desafios, QP3 - oportunidades), incluindo a coluna com a LLM utilizada em cada estudo.
 
 ---
 
@@ -52,8 +52,8 @@ Planilha de extração: mapeamento dos 15 estudos primários em relação às qu
 | Após deduplicação | 1321 |
 | Excluídos na triagem (título/resumo) | 1274 |
 | Potencialmente relevantes | 47 |
-| Excluídos na leitura completa | 32 |
-| **Estudos primários incluídos** | **15** |
+| Excluídos na leitura completa | 35 |
+| **Estudos primários incluídos** | **12** |
 
 ---
 
